@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"Figma Anti-LGBT","description":"A simple extension removing pride-themed rainbow loading bar from Figma","version":"0.0.1","icons":{"16":"icon16.png","48":"icon48.png","128":"icon128.png"},"content_scripts":[{"css":["antilgbt.css"],"matches":["https://figma.com/*","https://www.figma.com/*"]}]}
