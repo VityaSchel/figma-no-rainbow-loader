@@ -1,6 +1,6 @@
 # Figma Anti-LGBT
 
-Chrome extension removing cringe pride-themed loading bar from Figma.com
+Chrome extension that removes cringe pride-themed loading bar from Figma.com.
 
 ## Why?
 
