@@ -2,6 +2,10 @@
 
 Chrome extension that removes cringe pride-themed loading bar from Figma.com.
 
+[Download from Chrome Web Store](https://chrome.google.com/webstore/detail/figma-anti-lgbt/lnecjeoakphagjeoceoapondpmabphgl/) • [Download soruce from GitHub](https://github.com/VityaSchel/figma-anti-lgbt/archive/refs/heads/master.zip)
+
+![image](https://user-images.githubusercontent.com/59040542/175054360-9ecad24e-27b6-4703-b3a0-ef9a2eae9f5c.png)
+
 ## Why?
 
 I made this extension in 41 minutes to remove pride loading bar because there is no extensions like this in the internet. Bleach my eyes!!
@@ -16,7 +20,7 @@ Confirmed to work on Recent files page, editor and prototype presentation.
 
 ## How to use?
 
-- Download it in Chrome Web Store when it's approved, and that's it! No setup needed.
+- Download it in Chrome Web Store, and that's it! No setup needed.
 
 OR
 
