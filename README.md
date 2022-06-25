@@ -1,14 +1,16 @@
-# Figma Anti-LGBT
+# Figma No-Rainbow-Loader
 
-Chrome extension that removes cringe pride-themed loading bar from Figma.com.
+Chrome extension that removes rainbow-colored loading loading bar from Figma.com that appears during Pride month. Only use for theming and learning how to make extensions, no homophobia intended :)))
 
-[Download from Chrome Web Store](https://chrome.google.com/webstore/detail/figma-anti-lgbt/lnecjeoakphagjeoceoapondpmabphgl/) • [Download soruce from GitHub](https://github.com/VityaSchel/figma-anti-lgbt/archive/refs/heads/master.zip)
+[Download from Chrome Web Store](https://chrome.google.com/webstore/detail/figma-anti-lgbt/lnecjeoakphagjeoceoapondpmabphgl/) • [Download soruce from GitHub](https://github.com/VityaSchel/figma-no-rainbow-loader/archive/refs/heads/master.zip)
 
 ![image](https://user-images.githubusercontent.com/59040542/175054360-9ecad24e-27b6-4703-b3a0-ef9a2eae9f5c.png)
 
+Reuploaded to GitHub and fixed all complaints. Check out previous version of this repo on [Web Archive](https://web.archive.org/web/*/https://github.com/VityaSchel/figma-anti-lgbt).
+
 ## Why?
 
-I made this extension in 41 minutes to remove pride loading bar because there is no extensions like this in the internet. Bleach my eyes!!
+I made this extension in 41 minutes to remove rainbow loading bar because there is no extensions like this in the internet. Bleach my eyes!! *I just don't like multiple colors in loading bars and prefer sigle color, please accept it as is*
 
 I intentionally made it in vanilla js (or css?) without React, Webpack and SCSS to minimize size of packed extension. Currently it's just 28 KB overall and **only 546 bytes without icons**.
 
@@ -20,7 +22,7 @@ Confirmed to work on Recent files page, editor and prototype presentation.
 
 ## How to use?
 
-- Download it in Chrome Web Store, and that's it! No setup needed.
+- [Download it in Chrome Web Store](https://chrome.google.com/webstore/detail/figma-anti-lgbt/lnecjeoakphagjeoceoapondpmabphgl/), and that's it! No setup needed.
 
 OR
 
@@ -28,6 +30,6 @@ OR
 2. Go to Chrome &rarr; Extensions &rarr; Load packed extension
 3. Locate figma-anti-lgbt/src directory inside downloaded repository
 
-## Can I do something with this like report you or write hateful «u homophobic» comment??
+## ARE u homophobic??
 
-[go ahead](https://twitter.com/hlothdev)
+no!! please don't remove this repository again, it is used for educational purposes and has nothing to do with lgbt i promise!!!!
