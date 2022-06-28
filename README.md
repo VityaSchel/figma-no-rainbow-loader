@@ -2,7 +2,7 @@
 
 Chrome extension that removes rainbow-colored loading loading bar from Figma.com that appears during Pride month. Only use for theming and learning how to make extensions, no homophobia intended :)))
 
-[Download from Chrome Web Store](https://chrome.google.com/webstore/detail/figma-anti-lgbt/lnecjeoakphagjeoceoapondpmabphgl/) • [Download soruce from GitHub](https://github.com/VityaSchel/figma-no-rainbow-loader/archive/refs/heads/master.zip)
+[Download from Chrome Web Store](https://chrome.google.com/webstore/detail/figma-anti-lgbt/lnecjeoakphagjeoceoapondpmabphgl/) • [Download from Mozilla Addons](https://addons.mozilla.org/ru/firefox/addon/figma-anti-lgbt/) • [Download soruce from GitHub](https://github.com/VityaSchel/figma-no-rainbow-loader/archive/refs/heads/master.zip)
 
 ![image](https://user-images.githubusercontent.com/59040542/175054360-9ecad24e-27b6-4703-b3a0-ef9a2eae9f5c.png)
 
